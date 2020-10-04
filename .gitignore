@@ -99,4 +99,5 @@ ENV/
 .pytest_cache/
 
 # data
-
+/data/processed-data/*csv
+/data/raw-data/*
